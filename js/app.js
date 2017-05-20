@@ -19,6 +19,9 @@ khaledElem.innerHTML = "Project Manager";
 
 Concatenation*/
 
+var pikoElem = document.getElementById("alias3");
+pikoElem.innerHTML = "Concatenation";
+
 
 
 /*4. Replace the n/a for Snoop with the gangsta lorem ipsum*/
