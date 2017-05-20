@@ -4,13 +4,16 @@
 
 Tay-Tay*/
 
+var tayElem = document.getElementById("name1");
+tayElem.innerHTML = "Tay-Tay";
 
 
 /*2. Replace the n/a with the following: 
 
 Project Manager*/
 
-
+var khaledElem = document.getElementById("position2");
+khaledElem.innerHTML = "Project Manager";
 
 /*3. Replace the n/a with the following:
 
