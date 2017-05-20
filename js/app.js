@@ -26,6 +26,11 @@ pikoElem.innerHTML = "Concatenation";
 
 /*4. Replace the n/a for Snoop with the gangsta lorem ipsum*/
 
+var snoopElem = document.getElementsByClassName("profile");
+snoopElem[0].innerHTML = "Lorizzle shut the shizzle up dolor ma nizzle amizzle, pizzle adipiscing owned. Izzle shizzlin dizzle velizzle, go to hizzle volutpat, fo shizzle fo shizzle mah nizzle fo rizzle, mah home g-dizzle, gravida for sure, da bomb. Pellentesque egizzle shut the shizzle up. Shit erizzle. Go to hizzle izzle dapibus dizzle tempizzle that's the shizzle. Mauris break it down nibh izzle turpizzle. Crazy izzle we gonna chung. Pellentesque eleifend rhoncizzle tellivizzle. In gangsta my shizz things dictumst. Funky fresh dapibizzle. Curabitizzle pizzle urna, pretizzle you son of a bizzle, mattizzle dizzle, eleifend vitae, nunc. Mammasay mammasa mamma oo sa suscipizzle. Integizzle pimpin' sure sizzle owned."
+
+
+
 
 
 /*5. Relace the n/a for Samuel L Jackson with his lorem ipsum*/
