@@ -43,14 +43,24 @@ samElem[2].innerHTML = "You think water moves fast? You should see ice. It moves
 
 Append this div element to the nameBox div*/
 
+var divNorris = document.createElement("div.name7");
+var nodeNorris = document.createTextNode("Chuck Norris");
+divNorris.appendChild(nodeNorris);
+
+var elementNorris = document.getElementById("nameBox");
+elementNorris.appendChild(divNorris);
  
 
 /*7. Create a div element for Grimmace and give it an id of "alias8". Inside this div element, give it the contents of "The Purple Monster".
 
 Append this div element to the aliasBox div.*/
 
+var divGrim = document.createElement ("div.alias8");
+var nodeGrim = document.createTextNode("The Purple Monster");
+divGrim.appendChild(nodeGrim);
 
-
+var elementGrim = document.getElementById("aliasBox");
+elementGrim.appendChild(divGrim);
 
 //Final Boss
 /*8. Create your own profile.*/
